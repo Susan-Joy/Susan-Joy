@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **frameworks and languages like Flutter, Dart, and JavaScript**
 
-- 📫 How to reach me **susanjoy2004@gmail.com,https://www.linkedin.com/in/susan-joy-388b32254/**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1GJr5bfafgulVKudnvwsherOH_tiBDDXs/edit?usp=sharing&ouid=116230127025354128484&rtpof=true&sd=true](https://docs.google.com/document/d/1GJr5bfafgulVKudnvwsherOH_tiBDDXs/edit?usp=sharing&ouid=116230127025354128484&rtpof=true&sd=true)
+- 📫 How to reach me:  
+- [![Email](https://img.shields.io/badge/Email-susanjoy2004@gmail.com-blue?style=flat&logo=gmail)](mailto:susanjoy2004@gmail.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/susan-joy-388b32254/)
+- 📄 Know about my experiences:  
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat&logo=google-drive)](https://docs.google.com/document/d/1GJr5bfafgulVKudnvwsherOH_tiBDDXs/edit?usp=sharing&ouid=116230127025354128484&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
